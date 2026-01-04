@@ -36,6 +36,8 @@ body{
 .input {
     width: 158px;
     height: 35px;
+    justify-content: center;
+    align-items: center;
 
     border: 2px solid red;
 }
