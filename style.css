@@ -10,7 +10,7 @@ body{
 #main-container {
     width: 600px;
     height: 200px;
-    border: 2px solid pink;
+    border: 2px solid rgb(201, 29, 58);
     background-color:rgb(157, 94, 157)
 }
 
